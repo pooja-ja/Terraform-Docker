@@ -64,7 +64,7 @@ Explain each of these **in your own words** with a one-line example:
 
 Run the **core Terraform workflow** and capture the output of each step:
 ```bash
-cd example
+cd terraform
 terraform init      # download providers, initialize the working directory
 terraform fmt       # format your code
 terraform validate  # check for syntax errors
